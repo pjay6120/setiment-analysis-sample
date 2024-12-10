@@ -1,0 +1,7 @@
+flask
+request
+jsonify
+torch
+torchvision
+torchaudio
+transformers
